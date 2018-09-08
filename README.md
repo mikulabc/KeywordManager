@@ -5,7 +5,9 @@ https://wireframe.cc/8dxMat
 
 https://wireframe.cc/JuMhFD
 
-https://imgur.com/a/IdzqG3a 2 images
+https://imgur.com/a/IdzqG3a - 2 images
+
+idea: https://developers.google.com/web/progressive-web-apps/
 
 ----------------------------
 
