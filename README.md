@@ -9,6 +9,8 @@ https://imgur.com/a/IdzqG3a - 2 images
 
 idea: https://developers.google.com/web/progressive-web-apps/
 
+the icon: https://mega.nz/#!dERyCIzI!KmAUHz9uPoTYyLZiRdD8FlXHqC8ZAhJPSbmwexXqz2c
+
 ----------------------------
 
 This is a really really basic app that I need, it should do nothing else than sort keywords according to settings, such as filter, sort by date or length etc., details can be understood from the screenshots :)
